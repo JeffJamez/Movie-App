@@ -1,0 +1,11 @@
+.home{
+    width: 100%;
+    margin: 0;
+}
+
+.title{
+    position: absolute;
+    max-width: 500px;
+    bottom: 2rem;
+    margin-left: 2rem;
+}
